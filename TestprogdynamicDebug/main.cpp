@@ -5,5 +5,6 @@ using namespace std;
 int main()
 {
     cout << "Hello Chernov Nikita Alexandrovich!" << endl;
+    cout << "Hello, Prosyanov Viktor Nikolaevich" << endl;
     return 0;
 }
